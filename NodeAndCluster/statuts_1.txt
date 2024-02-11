@@ -1,0 +1,138 @@
+digraph G {{	node[margin = 0 fontcolor = blue  width = 0.5 shape = point style = filled]
+0[fillcolor=green fixedsize=true label="0" pos = "23, 59!"] 
+1[fillcolor=blue fixedsize=true label="1" pos = "94, 89!"] 
+2[fillcolor=orange fixedsize=true label="2" pos = "96, 39!"] 
+3[fillcolor=green fixedsize=true label="3" pos = "6, 47!"] 
+4[fillcolor=green fixedsize=true label="4" pos = "66, 40!"] 
+5[fillcolor=blue fixedsize=true label="5" pos = "93, 9!"] 
+6[fillcolor=green fixedsize=true label="6" pos = "100, 20!"] 
+7[fillcolor=orange fixedsize=true label="7" pos = "87, 92!"] 
+8[fillcolor=red fixedsize=true label="8" pos = "4, 29!"] 
+9[fillcolor=orange fixedsize=true label="9" pos = "75, 82!"] 
+10[fillcolor=green fixedsize=true label="10" pos = "71, 68!"] 
+11[fillcolor=orange fixedsize=true label="11" pos = "16, 27!"] 
+12[fillcolor=blue fixedsize=true label="12" pos = "88, 59!"] 
+13[fillcolor=blue fixedsize=true label="13" pos = "96, 25!"] 
+14[fillcolor=orange fixedsize=true label="14" pos = "14, 24!"] 
+15[fillcolor=red fixedsize=true label="15" pos = "48, 10!"] 
+16[fillcolor=orange fixedsize=true label="16" pos = "10, 70!"] 
+17[fillcolor=green fixedsize=true label="17" pos = "80, 14!"] 
+18[fillcolor=blue fixedsize=true label="18" pos = "93, 63!"] 
+19[fillcolor=orange fixedsize=true label="19" pos = "85, 4!"] 
+20[fillcolor=green fixedsize=true label="20" pos = "21, 49!"] 
+21[fillcolor=white fixedsize=true label="21" pos = "87, 54!"] 
+22[fillcolor=red fixedsize=true label="22" pos = "43, 23!"] 
+23[fillcolor=green fixedsize=true label="23" pos = "49, 27!"] 
+24[fillcolor=orange fixedsize=true label="24" pos = "70, 27!"] 
+25[fillcolor=red fixedsize=true label="25" pos = "92, 99!"] 
+26[fillcolor=red fixedsize=true label="26" pos = "71, 93!"] 
+27[fillcolor=orange fixedsize=true label="27" pos = "94, 57!"] 
+28[fillcolor=orange fixedsize=true label="28" pos = "0, 43!"] 
+29[fillcolor=green fixedsize=true label="29" pos = "89, 31!"] 
+30[fillcolor=red fixedsize=true label="30" pos = "71, 84!"] 
+31[fillcolor=red fixedsize=true label="31" pos = "8, 29!"] 
+32[fillcolor=green fixedsize=true label="32" pos = "29, 71!"] 
+33[fillcolor=blue fixedsize=true label="33" pos = "40, 52!"] 
+34[fillcolor=red fixedsize=true label="34" pos = "12, 57!"] 
+35[fillcolor=red fixedsize=true label="35" pos = "97, 54!"] 
+36[fillcolor=green fixedsize=true label="36" pos = "69, 27!"] 
+37[fillcolor=green fixedsize=true label="37" pos = "27, 5!"] 
+38[fillcolor=red fixedsize=true label="38" pos = "2, 65!"] 
+39[fillcolor=red fixedsize=true label="39" pos = "16, 62!"] 
+40[fillcolor=red fixedsize=true label="40" pos = "36, 85!"] 
+41[fillcolor=orange fixedsize=true label="41" pos = "64, 0!"] 
+42[fillcolor=blue fixedsize=true label="42" pos = "94, 70!"] 
+43[fillcolor=green fixedsize=true label="43" pos = "54, 40!"] 
+44[fillcolor=green fixedsize=true label="44" pos = "44, 75!"] 
+45[fillcolor=orange fixedsize=true label="45" pos = "60, 36!"] 
+46[fillcolor=orange fixedsize=true label="46" pos = "49, 83!"] 
+47[fillcolor=orange fixedsize=true label="47" pos = "14, 9!"] 
+48[fillcolor=green fixedsize=true label="48" pos = "4, 14!"] 
+49[fillcolor=red fixedsize=true label="49" pos = "51, 65!"] 
+1->37
+4->34
+6->48
+33->17
+12->29
+29->2
+1->7
+25->8
+35->36
+23->45
+40->3
+24->2
+26->1
+28->43
+30->37
+43->41
+38->19
+13->39
+7->32
+31->13
+20->34
+31->49
+49->48
+9->49
+44->39
+30->25
+2->22
+35->46
+42->12
+14->49
+30->34
+30->14
+42->16
+47->27
+47->46
+16->36
+32->13
+9->26
+12->24
+33->4
+26->25
+20->28
+46->31
+3->28
+26->27
+41->34
+25->7
+24->17
+24->31
+16->19
+35->7
+33->46
+14->38
+5->28
+15->6
+45->23
+39->41
+11->41
+44->9
+30->49
+39->45
+40->38
+25->18
+26->8
+31->40
+8->27
+45->9
+16->38
+38->8
+35->40
+40->11
+11->18
+35->47
+39->34
+18->22
+2->14
+22->0
+5->10
+5->15
+8->15
+22->15
+19->11
+42->27
+22->47
+10->15
+0->19
+}}
